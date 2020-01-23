@@ -1,6 +1,3 @@
 {
-    "jshint.packageManager": "yarn",
-    "npm.packageManager": "yarn",
-    "prettier.packageManager": "yarn",
-    "eslint.packageManager": "yarn"
+    "workbench.colorCustomizations": {}
 }
